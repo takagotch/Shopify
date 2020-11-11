@@ -9,7 +9,8 @@ https://github.com/Shopify
 https://www.shopify.jp/lite
 
 
-
+###### shopify payment
+https://https-takagotch-github-io-page63.myshopify.com/admin/settings/payments
 
 
 
